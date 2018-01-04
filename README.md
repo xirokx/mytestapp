@@ -1,2 +1,2 @@
 # MyTestApp
-I am learning github by adding a noddy app
+I am learning github so created this
